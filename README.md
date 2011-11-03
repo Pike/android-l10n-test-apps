@@ -17,4 +17,4 @@ well as `ja-JP-mac` and `x-testing`. There's
 There are two forms of test results, locales for which there is no font
 support, and locales not supported at all. Leave the test results for
 your device on 
-[the wiki](https://wiki.mozilla.org/L10n:Mobile/Android/LocaleOSDeviceMatrics).
+[the wiki](https://wiki.mozilla.org/L10n:Mobile/Android/LocaleOSDeviceMatrix).
