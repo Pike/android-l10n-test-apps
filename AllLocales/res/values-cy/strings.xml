@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">cy</string>
+    <string name="english">Welsh</string>
+    <string name="native_name">Cymraeg</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Ail-lwytho\'r dudalen gyfredol</string>
+</resources>

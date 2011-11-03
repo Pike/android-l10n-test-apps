@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">nb-NO</string>
+    <string name="english">Norwegian Bokmål</string>
+    <string name="native_name">Norsk bokmål</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Vis nyeste innhold i aktiv side</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">uk</string>
+    <string name="english">Ukrainian</string>
+    <string name="native_name">Українська</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Оновити поточну сторінку</string>
+</resources>

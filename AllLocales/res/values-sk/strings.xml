@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">sk</string>
+    <string name="english">Slovak</string>
+    <string name="native_name">Slovenský</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Načítať najnovšiu verziu stránky</string>
+</resources>

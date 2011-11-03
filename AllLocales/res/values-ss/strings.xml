@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ss</string>
+    <string name="english">Siswati</string>
+    <string name="native_name">Siswati</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Phindzu\'layishele lelipheji lokulo</string>
+</resources>

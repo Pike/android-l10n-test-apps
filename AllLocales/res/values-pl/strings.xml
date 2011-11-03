@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">pl</string>
+    <string name="english">Polish</string>
+    <string name="native_name">Polski</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Odśwież bieżącą stronę</string>
+</resources>

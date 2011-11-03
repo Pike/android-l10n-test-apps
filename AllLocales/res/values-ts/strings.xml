@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ts</string>
+    <string name="english">Tsonga</string>
+    <string name="native_name">Mutsonga</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Panga nakambe pheji leri</string>
+</resources>

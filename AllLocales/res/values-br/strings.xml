@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">br</string>
+    <string name="english">Breton</string>
+    <string name="native_name">Brezhoneg</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Adkargañ ar bajennad vremanel</string>
+</resources>

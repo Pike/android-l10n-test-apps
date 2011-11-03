@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">hi-IN</string>
+    <string name="english">Hindi</string>
+    <string name="native_name">हिन्दी</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">वर्तमान पृष्ठ फिर लोड करें</string>
+</resources>

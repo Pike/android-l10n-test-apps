@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">th</string>
+    <string name="english">Thai</string>
+    <string name="native_name">ไทย</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">เรียกหน้าปัจจุบันใหม่</string>
+</resources>

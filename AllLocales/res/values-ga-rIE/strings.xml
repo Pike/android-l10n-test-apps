@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ga-IE</string>
+    <string name="english">Irish</string>
+    <string name="native_name">Gaeilge</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Athluchtaigh an leathanach reatha</string>
+</resources>

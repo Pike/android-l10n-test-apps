@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">rw</string>
+    <string name="english">Kinyarwanda</string>
+    <string name="native_name">Ikinyarwanda</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Kongera Gutangiza Paji Igezweho</string>
+</resources>

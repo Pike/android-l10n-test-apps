@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">id</string>
+    <string name="english">Indonesian</string>
+    <string name="native_name">Indonesia</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Muat ulang laman ini</string>
+</resources>

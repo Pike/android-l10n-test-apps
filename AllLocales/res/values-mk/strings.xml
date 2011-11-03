@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">mk</string>
+    <string name="english">Macedonian</string>
+    <string name="native_name">Македонски</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Ја освежува вчитаната страница</string>
+</resources>

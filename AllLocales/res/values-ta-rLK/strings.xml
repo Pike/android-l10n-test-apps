@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ta-LK</string>
+    <string name="english">Tamil</string>
+    <string name="native_name">தமிழ்</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">நடப்புப் பக்கத்தை மீண்டும் ஏற்றுக</string>
+</resources>

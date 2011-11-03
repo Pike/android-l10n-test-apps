@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">sw</string>
+    <string name="english">Swahili</string>
+    <string name="native_name">Kiswahili</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Pakia tena ukurasa uliopo</string>
+</resources>

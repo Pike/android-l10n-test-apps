@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">si</string>
+    <string name="english">Singhalese</string>
+    <string name="native_name">සිංහල</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">භාවිත පිටුව ප්‍රතිපූරණය කරන්න</string>
+</resources>

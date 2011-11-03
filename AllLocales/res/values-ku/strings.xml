@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ku</string>
+    <string name="english">Kurdish</string>
+    <string name="native_name">Kurdî</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Rûpela derbasdar nû bike</string>
+</resources>

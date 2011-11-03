@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">mr</string>
+    <string name="english">Marathi</string>
+    <string name="native_name">मराठी</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">चालू पान परत दाखल करा</string>
+</resources>

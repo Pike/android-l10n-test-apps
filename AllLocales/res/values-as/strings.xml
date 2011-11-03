@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">as</string>
+    <string name="english">Assamese</string>
+    <string name="native_name">অসমীয়া</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">বৰ্তমান পৃষ্ঠা পুনৰ লোড কৰক</string>
+</resources>

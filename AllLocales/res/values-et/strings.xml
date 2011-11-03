@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">et</string>
+    <string name="english">Estonian</string>
+    <string name="native_name">Eesti</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Laadi uuesti</string>
+</resources>

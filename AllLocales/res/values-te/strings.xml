@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">te</string>
+    <string name="english">Telugu</string>
+    <string name="native_name">Telugu</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">ప్రస్తుత పేజీని తిరిగిలోడుచేయి</string>
+</resources>

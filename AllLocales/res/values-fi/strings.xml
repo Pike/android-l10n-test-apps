@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">fi</string>
+    <string name="english">Finnish</string>
+    <string name="native_name">suomi</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Päivitä avoin sivu</string>
+</resources>

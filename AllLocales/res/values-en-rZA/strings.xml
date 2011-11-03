@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">en-ZA</string>
+    <string name="english">English</string>
+    <string name="native_name">English</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Reload current page</string>
+</resources>

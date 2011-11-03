@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">ko</string>
+    <string name="english">Korean</string>
+    <string name="native_name">한국어</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">현재 페이지 새로 고침</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">nn-NO</string>
+    <string name="english">Norwegian Nynorsk</string>
+    <string name="native_name">Norsk nynorsk</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Vis nyaste innhald i aktiv side</string>
+</resources>

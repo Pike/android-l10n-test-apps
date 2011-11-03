@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">tn</string>
+    <string name="english">Tswana</string>
+    <string name="native_name">Setswana</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Laisa tsebe ya ga jaana gape</string>
+</resources>

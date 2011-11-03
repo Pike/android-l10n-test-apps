@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">be</string>
+    <string name="english">Belarusian</string>
+    <string name="native_name">Беларуская</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Абнавіць гэтую старонку</string>
+</resources>

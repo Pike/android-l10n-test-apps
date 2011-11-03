@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code">es-MX</string>
+    <string name="english">Spanish</string>
+    <string name="native_name">Español</string>
+    <string name="app_name">Language Tester</string>
+    <string name="phrase">Recargar esta página</string>
+</resources>
