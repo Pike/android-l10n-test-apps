@@ -13,7 +13,7 @@ AllLocales
 This app let's you iterate through all Mozilla-hosted locales, which at least 
 build on android. That excludes all three-letter language codes, sadly, as
 well as `ja-JP-mac` and `x-testing`. There's
-[an apk](http://people.mozilla.org/~axel/AllLocales.apk) to test out, too.
+[an apk](http://bit.ly/s4e3Wy) to test out, too.
 There are two forms of test results, locales for which there is no font
 support, and locales not supported at all. Leave the test results for
 your device on 
