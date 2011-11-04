@@ -18,3 +18,11 @@ There are two forms of test results, locales for which there is no font
 support, and locales not supported at all. Leave the test results for
 your device on 
 [the wiki](https://wiki.mozilla.org/L10n:Mobile/Android/LocaleOSDeviceMatrix).
+
+PluralChecker
+-------------
+
+This app goes through all our Mozilla-hosted locales and gathers the values of
+the built-in plural logic. Also, there's [an apk](http://bit.ly/u6jfQN) for
+this. The result is a text area which you can copy and paste to
+[the wiki](https://wiki.mozilla.org/L10n:Mobile/Android/PluralForms).

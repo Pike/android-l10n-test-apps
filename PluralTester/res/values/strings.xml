@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PluralTesterActivity!</string>
+    <string name="app_name">PluralTester</string>
+    <plurals name="plural_names">
+        <item quantity="zero">zero</item>
+        <item quantity="one">one</item>
+        <item quantity="two">two</item>
+     	<item quantity="few">few</item>
+        <item quantity="many">many</item>
+        <item quantity="other">other</item>
+    </plurals>
+    <plurals name="numberOfCars">
+        <item quantity="zero">zero</item>
+        <item quantity="one">one</item>
+        <item quantity="two">two</item>
+        <item quantity="few">few</item>
+        <item quantity="many">many</item>
+        <item quantity="other">other</item>
+    </plurals>
+
+</resources>
