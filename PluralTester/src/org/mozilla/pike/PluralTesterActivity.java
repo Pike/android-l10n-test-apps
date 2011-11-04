@@ -128,7 +128,7 @@ public class PluralTesterActivity extends Activity {
         LinearLayout lv = new LinearLayout(this);
         lv.setOrientation(LinearLayout.VERTICAL);
         String allContent = " ";
-        allContent += Build.HARDWARE + " " + Build.MANUFACTURER + " " + Build.MODEL+ " " + Build.FINGERPRINT + "\n";
+        allContent += Build.HARDWARE + " " + Build.MANUFACTURER + " " + Build.MODEL+ " " + Build.FINGERPRINT + "\n ";
         allContent += Build.VERSION.SDK_INT + " " + Build.VERSION.RELEASE + "\n";
         EditText area = new EditText(this);
         area.setSingleLine(false);
