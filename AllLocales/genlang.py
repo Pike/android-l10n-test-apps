@@ -1,7 +1,8 @@
 tmpl = '''<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="code">%s</string>
     <string name="english">%s</string>
-    <string name="native">%s</string>
+    <string name="native_name">%s</string>
     <string name="app_name">Language Tester</string>
 %s</resources>
 '''
@@ -37,7 +38,7 @@ l, m = p.parse()
 en_names = getCLDRNames("en")
 en_names.update(dict((k, l[v].val) for k, v in m.iteritems()))
 
-all_locales = filter(lambda l:l not in ('x-testing', 'ja-JP-mac'),
+all_locales = filter(lambda l:l not in ('x-testing', 'ja-JP-mac') and len(l)!=3,
                      os.listdir(l10n_src))
 for loc in all_locales:
     lang = loc.split('-')[0]
@@ -63,17 +64,22 @@ for loc in all_locales:
     p.readFile(browser)
     l, m = p.parse()
     try:
-        phrase = l[m['bookmarkAllTabs.label']].val
+        phrase = l[m['reloadButton.tooltip']].val
         phrase = phrase_tmpl % (phrase.replace("'", "\\'"))
     except:
         print 'no phrase for ' + loc
         phrase = ''
-    target = os.path.join(dest, 'values-' + loc.replace('-', '-r'))
+    # hack he->iw and id->in, thanks, java.
+    target_loc = {
+        'he': 'iw',
+        'id': 'in'
+        }.get(loc, loc)
+    target = os.path.join(dest, 'values-' + target_loc.replace('-', '-r'))
     print target
     if not os.path.isdir(target):
         os.makedirs(target)
     (open(os.path.join(target, 'strings.xml'),'w')
-     .write((tmpl % (en_name, native, phrase)).encode('utf-8')))
+     .write((tmpl % (loc, en_name, native, phrase)).encode('utf-8')))
 
 target = os.path.join(dest, 'values')
 if not os.path.isdir(target):
@@ -82,7 +88,7 @@ if not os.path.isdir(target):
  write('''<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="locales">
-''' + '\n'.join('    <string>%s</string>' % l for l in all_locales)
+''' + '\n'.join('    <item>%s</item>' % l for l in all_locales)
  + '''
   </string-array>
 </resources>
