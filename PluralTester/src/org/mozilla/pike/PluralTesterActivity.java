@@ -127,8 +127,8 @@ public class PluralTesterActivity extends Activity {
         super.onCreate(savedInstanceState);
         LinearLayout lv = new LinearLayout(this);
         lv.setOrientation(LinearLayout.VERTICAL);
-        String allContent = "";
-        allContent = Build.HARDWARE + " " + Build.MANUFACTURER + " " + Build.MODEL+ " " + Build.FINGERPRINT + "\n";
+        String allContent = " ";
+        allContent += Build.HARDWARE + " " + Build.MANUFACTURER + " " + Build.MODEL+ " " + Build.FINGERPRINT + "\n";
         allContent += Build.VERSION.SDK_INT + " " + Build.VERSION.RELEASE + "\n";
         EditText area = new EditText(this);
         area.setSingleLine(false);
@@ -150,7 +150,7 @@ public class PluralTesterActivity extends Activity {
         	Configuration config = res.getConfiguration();
         	config.locale = locale;
         	res.updateConfiguration(config, res.getDisplayMetrics());
-        	allContent += localeCode + "\t" + locales[loc_i][1] + "\t";
+        	allContent += " " + localeCode + "\t" + locales[loc_i][1] + "\t";
         	String quantity;
         	int count;
         	QuantityNode node = null;
