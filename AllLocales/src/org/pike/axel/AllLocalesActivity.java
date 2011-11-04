@@ -39,10 +39,13 @@ public class AllLocalesActivity extends Activity {
         Resources res = getResources();
         Configuration config = res.getConfiguration();
         config.locale = locale;
+        String androidLocale = locale.toString();
         res.updateConfiguration(config, res.getDisplayMetrics());
         setContentView(R.layout.main);
         TextView tv = (TextView) findViewById(R.id.locale);
         tv.setText(mAllLocales[mLocale]);
+        tv = (TextView) findViewById(R.id.android);
+        tv.setText(androidLocale);
     }
     public void onBack(View v) {
     	if (mLocale > 0) {
